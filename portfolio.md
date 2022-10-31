@@ -178,6 +178,7 @@ Toutes informations en rapport des classes
 
 
 # DGEP/ICT
+
 - ##### [Règlements tpi](https://www.ict-fr.ch/formation-initiale/tpi/conditions-cadres-et-deroulement-du-tpi) 
 - ##### [Lien modules ICT](https://www.ict-berufsbildung.ch/services/plan-modulaire)
 - ##### [Liens ICT](https://www.ict-berufsbildung.ch/)
