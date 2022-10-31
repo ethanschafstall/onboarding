@@ -7,14 +7,18 @@ Un regroupement de documents, et ressources nécessaire pour l'apprentissage.
     1. [Identifiant](#Identifiant)
     2. [Documents](#Documents)
     3. [Planification](#Planification)
+
 2. [Classe](#Classe)
     1.[Enseignants](#Enseignants)
+
 3. [Section Informatique](#Section-Informatique)
     1.[Infrastructure](#Infrastructure)
     2.[Délégués](#Délégués)
+
 4. [ETML](#ETML)
     1.[Communication](#Communication)
     2.[Salles](#Salles)
+
 5. [DGEP/ICT](#DGEP/ICT)
 
 # Personnelle
